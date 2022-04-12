@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ektabh Ekta Bhadouria
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, explore data, understand human behaviour
 - 🌱 I’m currently learning Full Stack Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ekta.ec1@gmail.com
